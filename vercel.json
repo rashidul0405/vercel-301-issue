@@ -1,0 +1,4999 @@
+{
+  "redirects": [
+    {
+      "source": "/online-egitim/cagri-merkezi-telefonda-iletisim-teknikleri-kurumsal",
+      "destination": "/online-egitim/telefonda-etkili-iletisim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/degerler-vizyon-ve-misyon-egitimi-kurumsal",
+      "destination": "/online-egitim/kisisel-marka-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/diksiyon-ozel-ders",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/dogru-ve-etkili-konusmanin-temelleri",
+      "destination": "/online-egitim/dogru-ve-etkili-konusma-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/etkili-iletisim-stratejileri-ve-beden-dili",
+      "destination": "/online-egitim/etkili-iletisim-teknikleri-ve-beden-dili",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/excel-kurumlar-icin",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/fotografcilik-egitimi-ileri-seviye",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/gorsel-magazacilik-ozel-ders",
+      "destination": "/online-egitim/gorsel-magazacilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/hizli-okuma-teknikleri-ileri-seviye",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/ileri-excel-ozel-ders",
+      "destination": "/online-egitim/ileri-excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/ispanyolca-ozel-ders",
+      "destination": "/online-egitim/ispanyolca-kursu-a1",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/italyanca-ozel-ders",
+      "destination": "/online-egitim/italyanca-kursu-a1",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/itibar-yonetimi-egitimi-kurumsal",
+      "destination": "/online-egitim/kurumsal-iletisim-20-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/japonca-ozel-ders",
+      "destination": "/online-egitim/japonca-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/japonca-ozel-ders-onur-konar",
+      "destination": "/online-egitim/japonca-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/kocluk-ozel-ders",
+      "destination": "/online-egitimler/kocluk-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/konusma-koclugu-ozel-ders",
+      "destination": "/online-egitim/dogru-ve-etkili-konusma-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/korece-ozel-ders",
+      "destination": "/online-egitim/korece-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/muhasebe-ozel-ders",
+      "destination": "/online-egitim/genel-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/nlp-ozel-ders",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/oyunculuk-ozel-ders",
+      "destination": "/online-egitim/oyunculuk-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/senaryo-yazarligi-atolyesi",
+      "destination": "/online-egitim/senaryo-yazarligi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/tibbi-sekreterlik-uzaktan-egitim",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/yabancilar-icin-turkce-ozel-ders",
+      "destination": "/online-egitim/yabancilar-icin-turkce-kursu-a1",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim/yaratici-yazarlik-editorluk-egitimi-ozel-ders",
+      "destination": "/online-egitim/yaratici-yazarlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/baslangic-seviyesi-insan-kaynaklari-egitimleri",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/canli-ders",
+      "destination": "/online-egitimler/canli-dersler",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/ileri-seviye-insan-kaynaklari-egitimleri",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/is-hayati-egitimleri",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/is-hayatinda-kisisel-gelisim",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/kurumsal-egitimler",
+      "destination": "/kurumsal-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/micromaster",
+      "destination": "/online-egitimler/",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/ozel-ders",
+      "destination": "/online-egitimler/ozel-dersler",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/ucretsiz-egitim",
+      "destination": "/online-egitimler/ucretsiz-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler/video-egitim",
+      "destination": "/online-egitimler/video-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/profil",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sertifika-ornekleri",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/giris",
+      "destination": "https://uzem.iienstitu.com",
+      "permanent": true
+    },
+    {
+      "source": "/kayit-ol",
+      "destination": "https://uzem.iienstitu.com",
+      "permanent": true
+    },
+    {
+      "source": "/kuponlarim",
+      "destination": "https://uzem.iienstitu.com",
+      "permanent": true
+    },
+    {
+      "source": "/kurumsal-egitimler",
+      "destination": "/kurumlara-ozel-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/en/login",
+      "destination": "/en",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-course",
+      "destination": "/en/online-courses",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-course/leadership-course",
+      "destination": "/en/online-course/leadership-and-management-course",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/adobe-tutorials",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/advanced-human-resources-courses",
+      "destination": "/en/online-courses/human-resources-courses",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/beginner-human-resources-courses",
+      "destination": "/en/online-courses/human-resources-courses",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/body-language-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/business-life-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/communication-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/content-creation-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/content-writing-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/corporate-trainings",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/interview-techniques-courses",
+      "destination": "/en/online-courses/human-resources-courses",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/leadership-trainings",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/management-trainings",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/micromasters",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/microsoft-tutorials",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/ministry-of-national-education-approved-trainings",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/occupational-health-and-safety-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/personal-development-in-business-life",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/photography-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/presentation-techniques-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/psychology-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/python-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/quantum-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/real-estate-and-property-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/sales-and-marketing-courses",
+      "destination": "/en/online-courses/marketing-courses",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/software-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/speed-reading-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/technology-courses",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/video-preparation-courses",
+      "destination": "/en/online-courses/video-editing-courses",
+      "permanent": true
+    },
+    {
+      "source": "/en/online-courses/wordpress-tutorials",
+      "destination": "/en/online-courses/",
+      "permanent": true
+    },
+    {
+      "source": "/egitimler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/cart",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/deneyim",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/egitim-takvimi",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/profil/kargo-takip",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/profil/online-egitimler",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/profil/picture",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/profil/sertifika-programlari",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/profil/sss",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/video",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/video/2021de-turizm-nasil-olacak",
+      "destination": "/blog/2021de-turizm-nasil-olacak",
+      "permanent": true
+    },
+    {
+      "source": "/video/3d-gorsellestirme-nedir",
+      "destination": "/blog/3d-gorsellestirme-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/algi-ve-ikna-yonetimi-nasil-yapilir",
+      "destination": "/blog/algi-ve-ikna-yonetimi-nasil-yapilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/almanca-nasil-ogrenilir",
+      "destination": "/blog/almanca-nasil-ogrenilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/amazonda-satis-nasil-yapilir",
+      "destination": "/blog/amazonda-satis-nasil-yapilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/ascilik-mesleginin-mutfaginda-neler-oluyor",
+      "destination": "/blog/ascilik-mesleginin-mutfaginda-neler-oluyor",
+      "permanent": true
+    },
+    {
+      "source": "/video/bilincalti-nelerden-ve-nasil-olusuyor",
+      "destination": "/blog/bilincalti-nelerden-ve-nasil-olusuyor",
+      "permanent": true
+    },
+    {
+      "source": "/video/bilincaltindaki-satin-alma-tusu-noropazarlama",
+      "destination": "/blog/bilincaltindaki-satin-alma-tusu-noropazarlama",
+      "permanent": true
+    },
+    {
+      "source": "/video/bilincli-tuketici-nedir-nasil-olunur",
+      "destination": "/blog/bilincli-tuketici-nedir-nasil-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/bulanik-mantik-nedir",
+      "destination": "/blog/bulanik-mantik-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/cagri-merkezinde-calismak-isteyenlere-tavsiyeler",
+      "destination": "/blog/cagri-merkezinde-calismak-isteyenlere-tavsiyeler",
+      "permanent": true
+    },
+    {
+      "source": "/video/calisanlar-icin-ihracat-gelistirme-yontemleri-nelerdir",
+      "destination": "/blog/calisanlar-icin-ihracat-gelistirme-yontemleri-nelerdir",
+      "permanent": true
+    },
+    {
+      "source": "/video/covid-surecinde-sterilizasyon-nasil-yapilmali",
+      "destination": "/blog/covid-surecinde-sterilizasyon-nasil-yapilmali",
+      "permanent": true
+    },
+    {
+      "source": "/video/dijital-pr-nedir",
+      "destination": "/blog/dijital-pr-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/diksiyon-gelistirme-teknikleri",
+      "destination": "/blog/diksiyon-gelistirme-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/video/diksiyon-teknikleriyle-dogru-ve-etkili-konusmayi-ogrenin",
+      "destination": "/blog/diksiyon-teknikleriyle-dogru-ve-etkili-konusmayi-ogrenin",
+      "permanent": true
+    },
+    {
+      "source": "/video/dis-ticaret-bolumunden-mezun-olanlar-ne-is-yapar",
+      "destination": "/blog/dis-ticaret-bolumunden-mezun-olanlar-ne-is-yapar",
+      "permanent": true
+    },
+    {
+      "source": "/video/e-ticaret-nedir-e-ticaret-sitesi-nasil-kurulur",
+      "destination": "/blog/e-ticaret-sitesi-nasil-kurulur",
+      "permanent": true
+    },
+    {
+      "source": "/video/e-ticarette-basarinin-sirri-nedir",
+      "destination": "/blog/e-ticarette-basarinin-sirri-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/eczane-yardimcisi-nasil-olunur",
+      "destination": "/blog/eczane-yardimcisi-nasil-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/egitmenle-ogretmen-arasindaki-fark",
+      "destination": "/blog/egitmenle-ogretmen-arasindaki-fark",
+      "permanent": true
+    },
+    {
+      "source": "/video/etkili-bir-konusmaci-olmanin-sirlari",
+      "destination": "/blog/etkili-bir-konusmaci-olmanin-sirlari",
+      "permanent": true
+    },
+    {
+      "source": "/video/etkili-ozgecmis-nasil-hazirlanir",
+      "destination": "/blog/etkili-ozgecmis-nasil-hazirlanir",
+      "permanent": true
+    },
+    {
+      "source": "/video/evde-hasta-bakim-asistani-nasil-olunur",
+      "destination": "/blog/evde-hasta-bakim-asistani-nasil-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/fotografcilik-hakkinda-her-sey",
+      "destination": "/blog/fotografcilik-hakkinda-her-sey",
+      "permanent": true
+    },
+    {
+      "source": "/video/fotografcilik-ogren-yetenegini-gelistir",
+      "destination": "/blog/fotografcilik-ogren-yetenegini-gelistir",
+      "permanent": true
+    },
+    {
+      "source": "/video/freelance-kitap-editorlugu-nasil-yapilir",
+      "destination": "/blog/freelance-kitap-editorlugu-nasil-yapilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/freelance-olarak-yapilacak-isler",
+      "destination": "/blog/freelance-olarak-yapilacak-isler",
+      "permanent": true
+    },
+    {
+      "source": "/video/hafiza-teknikleri-ve-nlp",
+      "destination": "/blog/hafiza-teknikleri-ve-nlp",
+      "permanent": true
+    },
+    {
+      "source": "/video/her-icerik-yazarinin-bilmesi-gerekenler",
+      "destination": "/blog/her-icerik-yazarinin-bilmesi-gerekenler",
+      "permanent": true
+    },
+    {
+      "source": "/video/hikayeleri-yasatmak-icin-senaryo-yazarligi",
+      "destination": "/blog/hikayeleri-yasatmak-icin-senaryo-yazarligi",
+      "permanent": true
+    },
+    {
+      "source": "/video/hizli-okuma-yetenegi-nasil-gelistirilir",
+      "destination": "/blog/hizli-okuma-yetenegi-nasil-gelistirilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/ilk-yardim-nedir-nasil-uygulamalar-yapilir",
+      "destination": "/blog/ilk-yardim-nedir-nasil-uygulamalar-yapilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/insan-kaynaklari-uzmani-olmak-isteyenlere-tavsiyeler",
+      "destination": "/blog/insan-kaynaklari-uzmani-olmak-isteyenlere-tavsiyeler",
+      "permanent": true
+    },
+    {
+      "source": "/video/internet-reklamlari-icin-google-ads-kimler-nasil-kullanmali",
+      "destination": "/blog/internet-reklamlari-icin-google-ads-kimler-nasil-kullanmali",
+      "permanent": true
+    },
+    {
+      "source": "/video/is-dunyasi-ve-protokol-kurallari",
+      "destination": "/blog/is-dunyasi-ve-protokol-kurallari",
+      "permanent": true
+    },
+    {
+      "source": "/video/is-dunyasinda-geri-bildirimin-onemi-nedir",
+      "destination": "/blog/is-dunyasinda-geri-bildirimin-onemi-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/is-dunyasinda-hangi-yetenek-kazandirir",
+      "destination": "/blog/is-dunyasinda-hangi-yetenek-kazandirir",
+      "permanent": true
+    },
+    {
+      "source": "/video/is-gorusmesine-hazirlananlar-icin-tavsiyeler",
+      "destination": "/blog/is-gorusmesine-hazirlananlar-icin-tavsiyeler",
+      "permanent": true
+    },
+    {
+      "source": "/video/is-hayatinda-koc-kimdir-guclu-soru-sorma-becerisi-nasil-gelistirilir",
+      "destination": "/blog/is-hayatinda-koc-kimdir-guclu-soru-sorma-becerisi-nasil-gelistirilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/is-hayatinda-konsantrasyon-saglama-yontemleri",
+      "destination": "/blog/is-hayatinda-konsantrasyon-saglama-yontemleri",
+      "permanent": true
+    },
+    {
+      "source": "/video/is-yerinde-sagliginizi-ve-guvenliginizi-koruyabiliyor-musunuz-isg-nedir",
+      "destination": "/blog/is-yerinde-sagliginizi-ve-guvenliginizi-koruyabiliyor-musunuz-isg-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/italyanca-ogrenmeye-nereden-baslamali",
+      "destination": "/blog/italyanca-ogrenmeye-nereden-baslamali",
+      "permanent": true
+    },
+    {
+      "source": "/video/kabin-memuru-nasil-olunur",
+      "destination": "/blog/kabin-memuru-nasil-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/kampus-hayatindan-kurumsal-hayata-gecis",
+      "destination": "/blog/kampus-hayatindan-kurumsal-hayata-gecis",
+      "permanent": true
+    },
+    {
+      "source": "/video/kariyer-planlama-ve-motivasyon",
+      "destination": "/blog/kariyer-planlama-ve-motivasyon",
+      "permanent": true
+    },
+    {
+      "source": "/video/kariyernet-platformunu-etkin-kullanmanin-puf-noktalari",
+      "destination": "/blog/kariyernet-platformunu-etkin-kullanmanin-puf-noktalari",
+      "permanent": true
+    },
+    {
+      "source": "/video/kendini-iyi-hissetmenin-is-hayatina-etkisi",
+      "destination": "/blog/kendini-iyi-hissetmenin-is-hayatina-etkisi",
+      "permanent": true
+    },
+    {
+      "source": "/video/kidem-tazminati-fonu-kapsami-nedir",
+      "destination": "/blog/kidem-tazminati-fonu-kapsami-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/kisa-film-yapimi",
+      "destination": "blog/kisa-film-yapimi-ve-senaryo-gelistirme-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/kisisel-markalasma-icin-neler-yapiyorsunuz",
+      "destination": "/blog/kisisel-markalasma-icin-neler-yapiyorsunuz",
+      "permanent": true
+    },
+    {
+      "source": "/video/kitap-yazmaya-nasil-baslayabilirim",
+      "destination": "/blog/kitap-yazmaya-nasil-baslayabilirim",
+      "permanent": true
+    },
+    {
+      "source": "/video/kuantum-dusunce-nedir-yasaminizi-pozitif-yonde-nasil-etkiler",
+      "destination": "/blog/kuantum-dusunce-nedir-yasaminizi-pozitif-yonde-nasil-etkiler",
+      "permanent": true
+    },
+    {
+      "source": "/video/kultur-sanat-alaninda-kariyer-yapmak-isteyenlere-tavsiyeler",
+      "destination": "/blog/kultur-sanat-alaninda-kariyer-yapmak-isteyenlere-tavsiyeler",
+      "permanent": true
+    },
+    {
+      "source": "/video/magaza-gorsel-tasarim-uzmani-nasil-olunur",
+      "destination": "/blog/magaza-gorsel-tasarim-uzmani-nasil-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/makyajda-sik-yapilan-hatalar-neler",
+      "destination": "/blog/makyajda-sik-yapilan-hatalar-neler",
+      "permanent": true
+    },
+    {
+      "source": "/video/marka-olusturmak-ve-reklamcilik",
+      "destination": "/blog/marka-olusturmak-ve-reklamcilik",
+      "permanent": true
+    },
+    {
+      "source": "/video/masal-terapisi-nedir-kimlere-uygulanir",
+      "destination": "/blog/masal-terapisi-nedir-kimlere-uygulanir",
+      "permanent": true
+    },
+    {
+      "source": "/video/mobbing-nedir-ve-nasil-mucadele-edilir",
+      "destination": "/blog/mobbing-nedir-ve-nasil-mucadele-edilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/motivasyon-arttiran-etkili-oneriler",
+      "destination": "/blog/motivasyon-arttiran-etkili-oneriler",
+      "permanent": true
+    },
+    {
+      "source": "/video/mukemmel-sunum-nasil-hazirlanir",
+      "destination": "/blog/mukemmel-sunum-nasil-hazirlanir",
+      "permanent": true
+    },
+    {
+      "source": "/video/mulakatlar-seni-korkutamaz-iste-mulakat-tuyolari",
+      "destination": "/blog/mulakatlar-seni-korkutamaz-iste-mulakat-tuyolari",
+      "permanent": true
+    },
+    {
+      "source": "/video/nasil-egitmen-olunur",
+      "destination": "/blog/nasil-egitmen-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/nasil-ikna-oluyoruz-insanlari-etkilemenin-yontemleri",
+      "destination": "/blog/nasil-ikna-oluyoruz-insanlari-etkilemenin-yontemleri",
+      "permanent": true
+    },
+    {
+      "source": "/video/nasil-on-muhasebeci-olunur",
+      "destination": "/blog/nasil-on-muhasebeci-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/neden-catisiyoruz",
+      "destination": "/blog/neden-catisiyoruz",
+      "permanent": true
+    },
+    {
+      "source": "/video/neden-hayir-diyemiyoruz",
+      "destination": "/blog/neden-hayir-diyemiyoruz",
+      "permanent": true
+    },
+    {
+      "source": "/video/netflix-pazarlama-basarisini-neye-borclu",
+      "destination": "/blog/netflix-pazarlama-basarisini-neye-borclu",
+      "permanent": true
+    },
+    {
+      "source": "/video/odaklanma-sorunu-belirtileri-nelerdir-nasil-giderilir",
+      "destination": "/blog/odaklanma-sorunu-belirtileri-nelerdir-nasil-giderilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/ogrenmeyi-ogrenmek",
+      "destination": "/blog/ogrenmeyi-ogrenmek-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/ogretim-gorevlisi-nasil-olunur",
+      "destination": "/blog/ogretim-gorevlisi-nasil-olunur",
+      "permanent": true
+    },
+    {
+      "source": "/video/oguz-saygin-yasam-koclugunu-anlatti",
+      "destination": "/blog/yasam-koclugu-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/organik-aramalarda-ilk-sayfada-cikabilecek-icerik-nasil-yazilir",
+      "destination": "/blog/organik-aramalarda-ilk-sayfada-cikabilecek-icerik-nasil-yazilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/oz-farkindalik-nedir-is-hayatinda-nasil-basari-saglar",
+      "destination": "/blog/oz-farkindalik-nedir-is-hayatinda-nasil-basari-saglar",
+      "permanent": true
+    },
+    {
+      "source": "/video/ozgecmisinizde-bu-kelimeleri-mutlaka-kullanin",
+      "destination": "/blog/ozgecmisinizde-bu-kelimeleri-mutlaka-kullanin",
+      "permanent": true
+    },
+    {
+      "source": "/video/pandemi-sonrasi-cagri-merkezi-nasil-bir-degisim-yasayacak",
+      "destination": "blog/pandemi-sonrasi-cagri-merkezi-nasil-bir-degisim-yasayacak",
+      "permanent": true
+    },
+    {
+      "source": "/video/pazarlama-iletisimi-nedir",
+      "destination": "/blog/pazarlama-iletisimi-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/photoshop-nasil-yapilir",
+      "destination": "/blog/photoshop-nasil-yapilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/pygame-ile-kendi-atari-oyununu-yap",
+      "destination": "/blog/pygame-ile-kendi-atari-oyununu-yap",
+      "permanent": true
+    },
+    {
+      "source": "/video/python-ogrenmek-kolay-mi",
+      "destination": "/blog/python-ogrenmek-kolay-mi",
+      "permanent": true
+    },
+    {
+      "source": "/video/reklamlar-karar-vermeyi-ne-kadar-etkiliyor",
+      "destination": "/blog/reklamlar-karar-vermeyi-ne-kadar-etkiliyor",
+      "permanent": true
+    },
+    {
+      "source": "/video/sanal-ve-gercek-yatirimlarda-nelere-dikkat-edilmeli",
+      "destination": "/blog/sanal-ve-gercek-yatirimlarda-nelere-dikkat-edilmeli",
+      "permanent": true
+    },
+    {
+      "source": "/video/satis-danismani-nedir-ne-kadar-maas-alir",
+      "destination": "/blog/satis-danismani-nedir-ne-kadar-maas-alir",
+      "permanent": true
+    },
+    {
+      "source": "/video/satista-basarinin-sirri-nedir",
+      "destination": "/blog/satista-basarinin-sirri-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/satranc-oynamak-isteyenler-icin-uzmanindan-tuyolar",
+      "destination": "/blog/satranc-oynamak-isteyenler-icin-uzmanindan-tuyolar",
+      "permanent": true
+    },
+    {
+      "source": "/video/scratch-nedir",
+      "destination": "/blog/scratch-nedir-nasil-ogrenilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/seo-uzmanlik-egitimi-ve-merak-edilenler",
+      "destination": "/blog/seo-uzmanlik-egitimi-ve-merak-edilenler",
+      "permanent": true
+    },
+    {
+      "source": "/video/sibel-curciali-yeni-acilan-egitimlerini-anlatti",
+      "destination": "/blog/sibel-curciali-yeni-acilan-egitimlerini-anlatti",
+      "permanent": true
+    },
+    {
+      "source": "/video/sifirdan-fransizca-nasil-ogrenilir",
+      "destination": "/blog/sifirdan-fransizca-nasil-ogrenilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/sifirdan-japonca-ogrenmek-kolay-mi",
+      "destination": "/blog/sifirdan-japonca-ogrenmek-kolay-mi",
+      "permanent": true
+    },
+    {
+      "source": "/video/sifirdan-korece-ogrenmenin-yollari",
+      "destination": "/blog/sifirdan-korece-ogrenmenin-yollari",
+      "permanent": true
+    },
+    {
+      "source": "/video/sikca-sorulan-mulakat-sorulari-ve-cevaplari-icin-tuyolar",
+      "destination": "/blog/sikca-sorulan-mulakat-sorulari-ve-cevaplari-icin-tuyolar",
+      "permanent": true
+    },
+    {
+      "source": "/video/sinema-televizyon-bolumu-okumak",
+      "destination": "/blog/sinema-televizyon-bolumu-okumak",
+      "permanent": true
+    },
+    {
+      "source": "/video/sirket-uygulamalarinda-toplumsal-cinsiyet-esitligi",
+      "destination": "/blog/sirket-uygulamalarinda-toplumsal-cinsiyet-esitligi",
+      "permanent": true
+    },
+    {
+      "source": "/video/sirketler-yalin-uretimde-neden-basarisiz-oluyor",
+      "destination": "/blog/sirketler-yalin-uretimde-neden-basarisiz-oluyor",
+      "permanent": true
+    },
+    {
+      "source": "/video/son-yillarin-en-populer-meslegi-tibbi-sekreterlik",
+      "destination": "/blog/son-yillarin-en-populer-meslegi-tibbi-sekreterlik",
+      "permanent": true
+    },
+    {
+      "source": "/video/soru-cevaplarla-is-kanunu",
+      "destination": "/blog/soru-cevaplarla-is-kanunu",
+      "permanent": true
+    },
+    {
+      "source": "/video/sosyal-girisimcilik-nedir",
+      "destination": "/blog/sosyal-girisimcilik-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/sosyal-medya-pazarlamasinda-yapay-zeka",
+      "destination": "/blog/sosyal-medya-pazarlamasinda-yapay-zeka",
+      "permanent": true
+    },
+    {
+      "source": "/video/sosyal-medyanin-gelecegi",
+      "destination": "/blog/sosyal-medyanin-gelecegi",
+      "permanent": true
+    },
+    {
+      "source": "/video/spiker-gibi-konusmak-ister-misiniz",
+      "destination": "/blog/spiker-gibi-konusmak-ister-misiniz",
+      "permanent": true
+    },
+    {
+      "source": "/video/tatiliniz-zehir-olmasin-yaz-aylarinda-kritik-ilk-yardim-bilgileri",
+      "destination": "/blog/tatiliniz-zehir-olmasin-yaz-aylarinda-kritik-ilk-yardim-bilgileri",
+      "permanent": true
+    },
+    {
+      "source": "/video/tibbi-dokumantasyon-ve-sekreterlik-nedir",
+      "destination": "/blog/tibbi-dokumantasyon-ve-sekreterlik-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/toefl-sinavina-nasil-hazirlanmaliyim",
+      "destination": "/blog/toefl-sinavina-nasil-hazirlanmaliyim",
+      "permanent": true
+    },
+    {
+      "source": "/video/toplu-mulakat-tuyolari",
+      "destination": "/blog/toplu-mulakat-tuyolari",
+      "permanent": true
+    },
+    {
+      "source": "/video/turist-rehberi-olmak-ister-misiniz",
+      "destination": "/blog/turist-rehberi-olmak-ister-misiniz",
+      "permanent": true
+    },
+    {
+      "source": "/video/turkiyenin-deprem-riski-ve-alinmasi-gereken-onlemler",
+      "destination": "/blog/turkiyenin-deprem-riski-ve-alinmasi-gereken-onlemler",
+      "permanent": true
+    },
+    {
+      "source": "/video/universite-ve-bolum-secerken-nelere-dikkat-edilmeli",
+      "destination": "/blog/universite-ve-bolum-secerken-nelere-dikkat-edilmeli",
+      "permanent": true
+    },
+    {
+      "source": "/video/uzaktan-egitimde-zorlanan-cocuklar-icin-ne-yapmali",
+      "destination": "/blog/uzaktan-egitimde-zorlanan-cocuklar-icin-ne-yapmali",
+      "permanent": true
+    },
+    {
+      "source": "/video/videolarda-kurgu-nasil-yapilir",
+      "destination": "/blog/videolarda-kurgu-nasil-yapilir",
+      "permanent": true
+    },
+    {
+      "source": "/video/web-tasarima-nereden-ve-nasil-baslanir",
+      "destination": "/blog/web-tasarima-nereden-ve-nasil-baslanir",
+      "permanent": true
+    },
+    {
+      "source": "/video/yabancilar-turkceyi-neden-ve-nasil-ogreniyor",
+      "destination": "/blog/yabancilar-turkceyi-neden-ve-nasil-ogreniyor",
+      "permanent": true
+    },
+    {
+      "source": "/video/yazilimin-baslangic-noktasi-algoritma-nedir",
+      "destination": "/blog/yazilimin-baslangic-noktasi-algoritma-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/yds-tuyolari",
+      "destination": "/blog/yds-tuyolari",
+      "permanent": true
+    },
+    {
+      "source": "/video/yeni-dunyanin-lideri-gercekten-cin-mi-gucu-nereden-geliyor",
+      "destination": "/blog/yeni-dunyanin-lideri-gercekten-cin-mi-gucu-nereden-geliyor",
+      "permanent": true
+    },
+    {
+      "source": "/video/yeni-mezunlar-icin-kariyer-planlama-tuyolari",
+      "destination": "/blog/yeni-mezunlar-icin-kariyer-planlama-tuyolari",
+      "permanent": true
+    },
+    {
+      "source": "/video/yeni-mezunlar-icin-mulakat-tuyolari",
+      "destination": "/blog/yeni-mezunlar-icin-mulakat-tuyolari",
+      "permanent": true
+    },
+    {
+      "source": "/video/yeni-mezunlar-kariyer-planlamada-nelere-dikkat-etmeli",
+      "destination": "/blog/yeni-mezunlar-kariyer-planlamada-nelere-dikkat-etmeli",
+      "permanent": true
+    },
+    {
+      "source": "/video/ymm-dr-masum-turker-muhasebe-meslegini-anlatti",
+      "destination": "/blog/ymm-dr-masum-turker-muhasebe-meslegini-anlatti",
+      "permanent": true
+    },
+    {
+      "source": "/video/yonetim-ve-organizasyon",
+      "destination": "/blog/yonetim-ve-organizasyon-nedir",
+      "permanent": true
+    },
+    {
+      "source": "/video/yuksek-lisans-ve-doktora-surecinde-sizi-ne-bekliyor",
+      "destination": "/blog/yuksek-lisans-ve-doktora-surecinde-sizi-ne-bekliyor",
+      "permanent": true
+    },
+    {
+      "source": "/video/yurt-disinda-sinavsiz-universiteler",
+      "destination": "/blog/yurt-disinda-sinavsiz-universiteler",
+      "permanent": true
+    },
+    {
+      "source": "/video/yuz-yogasi-ve-faydalari",
+      "destination": "/blog/yuz-yogasi-ve-faydalari",
+      "permanent": true
+    },
+    {
+      "source": "/video/z-kusagi-ne-istiyor-oguz-saygin-z-kusagini-anlatti",
+      "destination": "/blog/z-kusagi-ne-istiyor-oguz-saygin-z-kusagini-anlatti",
+      "permanent": true
+    },
+    {
+      "source": "/video/zihin-haritalari-zihninizi-renkli-oyunlarla-guclendirmeye-var-misiniz",
+      "destination": "/blog/zihin-haritalari-zihninizi-renkli-oyunlarla-guclendirmeye-var-misiniz",
+      "permanent": true
+    },
+    {
+      "source": "/video/zor-musteri-kimdir-nasil-basa-cikilir",
+      "destination": "/blog/zor-musteri-kimdir-nasil-basa-cikilir",
+      "permanent": true
+    },
+    {
+      "source": "/haberler",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-dersi-ornek-metinleri",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/en/blog/what-are-online-business-courses",
+      "destination": "/en/online-courses/online-business-courses",
+      "permanent": true
+    },
+    {
+      "source": "/blog/certified-training-programs",
+      "destination": "/en/online-courses/personal-development-courses",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-almanca-egitimi",
+      "destination": "/online-egitim/almanca-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sifirdan-almanca-ogrenmek-kolay-mi",
+      "destination": "/online-egitim/almanca-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dropshipping-nedir-nasil-yapilir",
+      "destination": "/online-egitim/amazon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-kursu-ile-ne-ogrenebilirim",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-teknikleri",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-teknikleri-nelerdir",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-teknikleri-ogrenin",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-ve-anlama-teknikleri-bize-ne-kazandirir",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-ve-anlama-teknikleri-ile-basari-daha-yakin",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bilgisayar-isletmenligi-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/bilgisayar-isletmenligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nasil-blog-kurulur-ve-blogger-olunur",
+      "destination": "/online-egitim/blog-yazarligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-blog-yazarligi-egitimi",
+      "destination": "/online-egitim/blog-yazarligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yayinevine-giden-yol-blog-yazarligi",
+      "destination": "/online-egitim/blog-yazarligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hayatinda-zor-insanlarla-nasil-basa-cikabiliriz",
+      "destination": "/online-egitim/catisma-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/basarili-bir-kariyer-degisimi-nasil-yapilir",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/basarili-bir-ozgecmis-icin-bazi-ipuclari",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cv-hazirlama-ve-is-gorusmesi-sureci",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cv-nasil-hazirlanmali",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cv-nasil-yazilir",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cv-ne-demek-cv-acilimi-nedir",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cv-nedir-is-mulakatinda-dikkat-edilecekler",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cvde-bilgisayar-bilgisi-neden-onemli",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cvde-sertifika-bilgileri-nasil-yazilir",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-gorusmelerinde-mulakat-tekniklerinin-basarisi",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-gorusmesi-ise-alinmak-icin-bu-cumleleri-kurun",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-gorusmesinde-adaylarin-sormasi-gerekenler",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-gorusmesinde-yapilmasi-gerekenler",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-gorusmesinde-yapilmasi-gerekenler-2",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kidemli-calisanlar-icin-on-yazi-mektubu-ornekleri",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mukemmel-cv-nasil-hazirlanir",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nasil-is-bulurum",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nasil-is-bulurum-is-bulma-yontemleri",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ozgecmis-beceriler-bolumune-ne-yazilmali",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ozgecmis-dedigin-guclu-olmali",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ozgecmis-deneyim-bolumu-nasil-yazilmali",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ozgecmisiniz-bu-mu",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ozgecmisiniz-kapilari-aciyor-mu",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/referans-kontrolu-yapilir-mi-isveren-referansinizi-kontrol-eder-mi",
+      "destination": "/online-egitim/cv-hazirlama-ve-is-gorusmesine-hazirlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/davranissal-finans-nedir",
+      "destination": "/online-egitim/davranissal-finans-ve-karar-verme-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-egitimi-kimlerin-isine-yarar",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-egitiminin-faydalari",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-egitimiyle-nerelerde-calisabilirim",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-kursu-ve-girisimcilik",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-trenini-kacirmayin",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-uzmani-ne-is-yapar",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-uzmani-ne-kadar-maas-alir",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-uzmani-olmak-isteyenlere-tavsiyeler",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-ve-cesitleri",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-ve-kanallari",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dijital-pazarlama-ve-mobil-uygulamalar",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kaliteli-icerik-dijital-pazarlamayi-etkiler-mi",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/pazarlama-yontemlerinin-dijital-dunyada-kullanilmasi",
+      "destination": "/online-egitim/dijital-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-basarinin-anahtari-midir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-calismalari-yaparak-guzel-konusmayi-ogrenin",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-dersi-tekerleme-ornekleri",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-egitimi-fark-yaratir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-egitimi-neden-onemli",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-kursu-faydalari",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-kursu-faydalari-nelerdir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-kursu-ile-etkili-konusma",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-kursu-neden-onemlidir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-kursu-nedir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-kursu-nedir-neden-onemlidir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-nasil-duzeltilir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-nasil-gelistirilir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-neden-onemli",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-nedir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyon-ve-davranis-egitimi-nedir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyonun-onemi-ve-kurallari",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/diksiyonunuzu-gelistirin-telaffuzu-en-zor-kelimeler",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dogru-iletisim-icin-diksiyon-egitimi-sart",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-konusmanin-yolu-diksiyon-egitimi",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/gunluk-yasamin-vazgecilmezi-diksiyon",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hepimizin-ihtiyaci-guzel-konusma-kursu",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-hayatinda-diksiyon-neden-onemlidir",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-diksiyon-egitimi-almaliyiz",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-diksiyon-kursu",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/temel-konusma-teknikleri-ve-diksiyon",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-diksiyon-kursu",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/turkcenin-kullanimi-ve-diksiyon-egitimi",
+      "destination": "/online-egitim/diksiyon-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/guzel-konusma-teknikleri",
+      "destination": "/online-egitim/dogru-ve-etkili-konusma-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dogum-fotografciligi-nedir",
+      "destination": "/online-egitim/dogum-fotografciligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dugun-fotografciligi-egitimi-ne-ise-yarar",
+      "destination": "/online-egitim/dugun-fotografciligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dunya-kulturleri-ve-destinasyonlari-egitimi-nedir",
+      "destination": "/online-egitim/dunya-kulturleri-ve-destinasyonlari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/duygusal-zeka-gelistirme-yontemleri",
+      "destination": "/online-egitim/duygusal-zeka-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/duygusal-zeka-nedir",
+      "destination": "/online-egitim/duygusal-zeka-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/duygusal-zekanin-hayatimizdaki-yeri",
+      "destination": "/online-egitim/duygusal-zeka-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hayatinda-duygusal-zeka",
+      "destination": "/online-egitim/duygusal-zeka-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaret-egitimi-neden-gereklidir",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaret-egitimi-neden-onemli",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaret-egitimi-nedir",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaret-egitimi-ve-e-ticaret-sitesi-kurmak",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaret-egitimiyle-web-sitesi-kurmak",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaret-kursu-ile-e-ticarete-adim-atin",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaret-nasil-yapilir",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticaretin-faydalari-nelerdir",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-ticarette-marka-kimliginizi-olusturmak",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-e-ticaret-egitimi",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-e-ticaret-egitimi-nedir",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sifirdan-e-ticaret-kurmanin-yollari",
+      "destination": "/online-egitim/e-ticaret-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egiticinin-egitimi-ile-yetiskin-egitimi",
+      "destination": "/online-egitim/egiticinin-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egiticinin-egitimi-kursuna-kimler-katilmali",
+      "destination": "/online-egitim/egiticinin-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egiticinin-egitimi-nedir",
+      "destination": "/online-egitim/egiticinin-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egiticinin-egitimi-sertifikasi",
+      "destination": "/online-egitim/egiticinin-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egiticinin-egitimi-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/egiticinin-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitim-nedir-egiticinin-egitimi-nedir",
+      "destination": "/online-egitim/egiticinin-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitimin-onemi-ve-egiticinin-egitimi-programi",
+      "destination": "/online-egitim/egiticinin-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/emlak-danismanligi-sertifikasi-ile-ne-yapilabilir",
+      "destination": "/online-egitim/emlak-danismanligi-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/empati-becerisi-nedir",
+      "destination": "/online-egitim/empati-ve-iletisim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/empati-nedir",
+      "destination": "/online-egitim/empati-ve-iletisim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/empati-ornekleri",
+      "destination": "/online-egitim/empati-ve-iletisim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-ingilizce-ogrenmeliyiz",
+      "destination": "/online-egitim/english-course-native-teacher-a1-a2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-etkili-iletisim",
+      "destination": "/online-egitim/etkili-iletisim-stratejileri-ve-beden-dili",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-iletisim-icin-beden-dili-ve-onemi",
+      "destination": "/online-egitim/etkili-iletisim-teknikleri-ve-beden-dili",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-iletisim-teknikleri",
+      "destination": "/online-egitim/etkili-iletisim-teknikleri-ve-beden-dili",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-iletisimin-hayatimizdaki-yeri",
+      "destination": "/online-egitim/etkili-iletisim-teknikleri-ve-beden-dili",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-hayatinda-beden-dilinin-yeri",
+      "destination": "/online-egitim/etkili-iletisim-teknikleri-ve-beden-dili",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-yerinde-gereken-etkili-iletisim-becerileri",
+      "destination": "/online-egitim/etkili-iletisim-teknikleri-ve-beden-dili",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-sunum-gerceklestirmenin-yolu",
+      "destination": "/online-egitim/etkili-sunum-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-sunum-nasil-yapilir",
+      "destination": "/online-egitim/etkili-sunum-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-sunum-teknikleri-hakkinda-bilinmesi-gerekenler",
+      "destination": "/online-egitim/etkili-sunum-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-sunum-teknikleri-nasil-gerceklesir",
+      "destination": "/online-egitim/etkili-sunum-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-sunumun-sirlari",
+      "destination": "/online-egitim/etkili-sunum-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sunum-ve-panel-arasindaki-fark-nedir",
+      "destination": "/online-egitim/etkili-sunum-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dogru-karar-verme-teknikleri",
+      "destination": "/online-egitim/etkin-karar-verme-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkin-karar-vermek-icin-10-ipucu",
+      "destination": "/online-egitim/etkin-karar-verme-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/karar-verme-teknikleri",
+      "destination": "/online-egitim/etkin-karar-verme-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/karar-verme-teknikleri-nelerdir",
+      "destination": "/online-egitim/etkin-karar-verme-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yonetici-asistani",
+      "destination": "/online-egitim/etkin-yonetici-asistanligi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yonetici-asistani-maaslari",
+      "destination": "/online-egitim/etkin-yonetici-asistanligi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yonetici-asistanligi-egitimiyle-fark-yaratin",
+      "destination": "/online-egitim/etkin-yonetici-asistanligi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yonetici-asistanligi-nedir",
+      "destination": "/online-egitim/etkin-yonetici-asistanligi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/excel-biliyorum-demeyin",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/excel-egitimi-almak-eglenceli-mi",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/excel-egitimi-ile-is-hayatina-onde-baslayin",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/excel-formulleri-icin-bu-egitime-katilin",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/excel-ile-hayatinizi-nasil-kolaylastirirsiniz",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/excel-kullanimi-artik-cok-kolay",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/excel-ogrenme-online-egitimle-cok-kolay",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ileri-excel-kursu-grafiklerle-calismak",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ofis-arkadasim-excel-ne-ise-yarar",
+      "destination": "/online-egitim/excel-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/instagram-reklamciligi-nedir",
+      "destination": "/online-egitim/facebook-ve-instagram-reklamciligi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finans-alaninda-kariyer-yapmak-isteyen-kadinlara-oneriler",
+      "destination": "/online-egitim/finans-muhasebe-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finansal-okuryazarlik-egitimi-nedir",
+      "destination": "/online-egitim/finansal-okuryazarlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finansal-okuryazarlik-nedir",
+      "destination": "/online-egitim/finansal-okuryazarlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finansal-yonetim-egitiminin-yararlari-nedir",
+      "destination": "/online-egitim/finansal-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finansal-yonetim-nedir",
+      "destination": "/online-egitim/finansal-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kaliteli-finansal-yonetimin-gereklilikleri",
+      "destination": "/online-egitim/finansal-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/paranizi-ve-para-kaynaginizi-yonetmeyi-ogrenin",
+      "destination": "/online-egitim/finansal-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifikali-finansal-yonetim-egitimi",
+      "destination": "/online-egitim/finansal-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yuksek-lisans-duzeyinde-finans-egitimi-alin",
+      "destination": "/online-egitim/finansal-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/flutter-ile-mobil-uygulama-tasarlama",
+      "destination": "/online-egitim/flutter-ile-mobil-uygulama-gelistirme-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/flutter-nedir-ve-neden-ogrenmelisiniz",
+      "destination": "/online-egitim/flutter-ile-mobil-uygulama-gelistirme-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fotograf-cekme-kursu-ile-daha-iyi-fotograflar-cekin",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fotografcilik-egitimi-hakkinda-bilmeniz-gerekenler",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fotografcilik-nedir",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fotografcilik-nedir-fotografcilik-turlerini-taniyalim",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hobi-edinmek",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hobi-edinmek-2",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-fotografcilik-kursu",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/temel-fotografcilik-egitimi-nedir",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/temel-fotografcilik-egitimini-evinizden-ogrenin",
+      "destination": "/online-egitim/fotografcilik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fotografcilik-kursu-ileri-seviye",
+      "destination": "/online-egitim/fotografcilik-egitimi-ileri-seviye",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finans-ve-muhasebe-egitimi",
+      "destination": "/online-egitim/genel-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/genel-muhasebe-egitimine-katildigimda-nerede-is-bulabilirim",
+      "destination": "/online-egitim/genel-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/muhasebe-alaninda-kariyer-plani-nasil-yapilir",
+      "destination": "/online-egitim/genel-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/muhasebe-kursu-ile-genel-muhasebeyi-ogrenin",
+      "destination": "/online-egitim/genel-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/muhasebe-nedir",
+      "destination": "/online-egitim/genel-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/muhasebeye-hakim-olun",
+      "destination": "/online-egitim/genel-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hafiza-guclendirme-teknikleri",
+      "destination": "/online-egitim/hafiza-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hafiza-sarayi-teknigi-ile-ogrenme",
+      "destination": "/online-egitim/hafiza-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hafiza-teknikleri-ile-ingilizce-kelimeler-ogrenme",
+      "destination": "/online-egitim/hafiza-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hafiza-teknikleriyle-hafizanizi-guclendirin",
+      "destination": "/online-egitim/hafiza-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/icerik-editorlugu-hakkinda-her-sey",
+      "destination": "/online-egitim/icerik-editorlugu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/icerik-editoru-ne-is-yapar",
+      "destination": "/online-egitim/icerik-editorlugu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/icerik-nedir",
+      "destination": "/online-egitim/icerik-editorlugu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yeni-meslek-icerik-uzmani",
+      "destination": "/online-egitim/icerik-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ielts-nedir",
+      "destination": "/online-egitim/ielts-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ielts-sinavi-hakkinda-bilinmesi-gerekenler",
+      "destination": "/online-egitim/ielts-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ikna-oyunlari-egitimi-nedir",
+      "destination": "/online-egitim/ikna-oyunlari-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/baskalarini-sizin-gibi-dusunmeye-nasil-ikna-edersiniz",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hayatinizin-her-alaninda-iknanin-gucunden-yararlanin",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ikna-kabiliyeti-basariya-goturur",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ikna-kabiliyeti-nasil-gelistirilir",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ikna-teknikleri-nelerdir",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iknanin-hayatimizdaki-yeri",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/inatci-insanlar-nasil-ikna-edilir",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ise-yaradigi-bilinen-ikna-yontemleri",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yeni-baslayanlar-icin-ikna-teknikleri-kursu-neler-ogreneceksin",
+      "destination": "/online-egitim/ikna-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ileri-excel-egitimi-neden-onemli",
+      "destination": "/online-egitim/ileri-excel-egitim",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ileri-excel-egitiminin-onemi",
+      "destination": "/online-egitim/ileri-excel-egitim",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ileri-excel-kursu-ile-isleri-rahatca-verilere-dokmek",
+      "destination": "/online-egitim/ileri-excel-egitim",
+      "permanent": true
+    },
+    {
+      "source": "/blog/gercekten-iletisim-kurabiliyor-muyuz",
+      "destination": "/online-egitim/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisim-egitimi-almanin-artilari-nelerdir",
+      "destination": "/online-egitim/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisim-gelistirilmesi-gereken-bir-beceridir",
+      "destination": "/online-egitim/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisim-gercekten",
+      "destination": "/online-egitim/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-dunyasina-yenilmeyin",
+      "destination": "/online-egitim/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hayatinda-basari-icin-sahip-olmaniz-gereken-3-beceri",
+      "destination": "/online-egitim/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hayatinda-basari-ve-etkili-konusma-dinleme",
+      "destination": "/online-egitim/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iliskisel-pazarlama-nedir",
+      "destination": "/online-egitim/iliskisel-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iliskisel-pazarlama-nedir-nasil-uygulanir",
+      "destination": "/online-egitim/iliskisel-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iliskisel-pazarlama-stratejileri-nelerdir",
+      "destination": "/online-egitim/iliskisel-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iliskisel-pazarlamanin-ozellikleri",
+      "destination": "/online-egitim/iliskisel-pazarlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/profesyonel-imaj-ve-algi-yonetimi-egitimi-nedir",
+      "destination": "/online-egitim/imaj-ve-algi-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/profesyonel-imaj-ve-algi-yonetimi-neden-onemli",
+      "destination": "/online-egitim/imaj-ve-algi-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-ingilizce-egitim-a1-a2",
+      "destination": "/online-egitim/ingilizce-egitimi-a1-a2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-ingilizce-kursu",
+      "destination": "/online-egitim/ingilizce-egitimi-a1-a2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-ingilizce-ogrenme",
+      "destination": "/online-egitim/ingilizce-egitimi-a1-a2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-online-ingilizce-kursu",
+      "destination": "/online-egitim/ingilizce-egitimi-a1-a2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-c1-c2-egitimini-online-almanin-faydalari",
+      "destination": "/online-egitim/ingilizce-egitimi-c1-c2",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-konusma-kursu",
+      "destination": "/online-egitim/ingilizce-konusma-kursu-speaking",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-konusmayi-ogrenmek-icin-5-tavsiye",
+      "destination": "/online-egitim/ingilizce-konusma-kursu-speaking",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ik-egitimi-ile-is-hayatinda-one-cikin",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ik-egitimi-ile-personelinizi-dogru-secin-dogru-yonetin",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ikcilar-aslinda-ne-is-yapar",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-uzmanligi-egitimi-nicin-gerekli",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-dersleri",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-egitim-programi",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-egitimi-yararlari",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetiminin-sirketler-icin-onemi",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetiminin-sirketlerdeki-konumu",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetiminin-temel-hedefleri",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yonetim-ve-insan-kaynaklari-yonetimi",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-kursu-size-ne-saglar",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-sertifikasi-ise-yariyor-mu",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-sertifikasina-ucretsiz-sahip-olun",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-uzmani-yeni-gorevleri",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-neden-onemlidir",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-neden-var",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-nedir",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-onemi-nedir",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-sertifika-programi-neden-onemli",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-ve-gorevleri",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yeni-bir-kariyer-insan-kaynaklari-yonetimi",
+      "destination": "/online-egitim/insan-kaynaklari-yonetimi        ",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetiminde-egitimin-rolu",
+      "destination": "/online-egitim/insan-kaynaklari-yonetiminde-egitim-ve-gelistirme",
+      "permanent": true
+    },
+    {
+      "source": "/blog/instagram-ile-markanizi-yaratin",
+      "destination": "/online-egitim/instagramda-etkili-satis-yapma-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/instagram-uzerinden-satis-nasil-yapilir",
+      "destination": "/online-egitim/instagramda-etkili-satis-yapma-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-guvenligi-sertifikasi-almak-icin-nereden-baslamaliyim",
+      "destination": "/online-egitim/is-guvenligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-sagligi-ve-guvenligi-kanunu",
+      "destination": "/online-egitim/is-guvenligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-sagligi-ve-guvenligi-sertifikasi-kimler-alabilir",
+      "destination": "/online-egitim/is-guvenligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-sagligi-ve-guvenligi-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/is-guvenligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-sagligi-ve-guvenligi-sertifikasi-nedir-neden-gereklidir",
+      "destination": "/online-egitim/is-guvenligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isg-egitimi-nedir",
+      "destination": "/online-egitim/is-guvenligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-ingilizcesi-neden-gereklidir",
+      "destination": "/online-egitim/is-ingilizcesi-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-ingilizcesi-neden-onemli",
+      "destination": "/online-egitim/is-ingilizcesi-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-ingilizcesi-nedir-ne-fayda-saglar",
+      "destination": "/online-egitim/is-ingilizcesi-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isyerindeki-anlasmazliklar-yeniligi-tesvik-edebilir-mi",
+      "destination": "/online-egitim/is-yasaminda-kusaklar-arasi-iletisim",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-yerinde-gorgu-ve-etik",
+      "destination": "/online-egitim/is-yerinde-gorgu-ve-etik-kurallari-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisimde-engelleri-kucaklayin",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-bilmenin-avantajlari",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-cevirmeni-olmak",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-egitimi-almanin-onemi",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-egitimi-hakkinda-bilinmesi-gerekenler",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-egitmeni",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-kursu-ile-ne-ogrenebilirim",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-nasil-ogrenilir",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-ogrenin",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-ogrenmek-icin-egitim-sart",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dili-ogrenmek-kariyerinize-deger-katar",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-diline-farkli-bir-bakis",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-diline-hakim-olmak",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dilini-ucretsiz-olarak-nasil-ogrenebilirsiniz",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isaret-dilinin-onemi",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-isaret-dili-egitimi-almaliyiz",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimle-isaret-dili-ogrenme",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-isaret-dili-kursu-istanbul-2019",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-isaret-dili-kursuyla-1-haftada-ogrenin",
+      "destination": "/online-egitim/isaret-dili-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ileri-seviye-isaret-dili-kursu",
+      "destination": "/online-egitim/isaret-dili-egitimi-ileri-seviye",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-isaret-dili-ogrenmeliyiz",
+      "destination": "/online-egitim/isaret-dili-egitimi-ileri-seviye",
+      "permanent": true
+    },
+    {
+      "source": "/blog/en-etkili-mulakat-sorulari-ve-cevaplari",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/gorusmelerinde-basari-icin-mulakat-teknikleri",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-uzmanlari-icin-referans-kontrol-formu",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-gorusmesini-olumsuz-etkileyecek-durumlar",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ise-alim-uzmani-sadece-para-ile-motive-oluyor",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isten-cikarilmamak-icin-yapmaniz-gerekenler",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isten-cikis-gorusmesi-formu",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iyi-bir-is-gorusmesi-icin-mulakat-teknikleri",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iyi-bir-ise-alim-uzmani-bulmak-icin-ipuclari",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-daveti-almak-icin-ne-yapmak-gerekir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-oncesi-yapilmasi-gereken-hazirliklar-nelerdir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-teknikleri-egitimi-bize-ne-kazandirir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-teknikleri-egitimi-kimler-icin-gereklidir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-ve-mulakat-teknikleri",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-yontemleri-ve-teknikleri-nelerdir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakata-davet-edilmemenizin-25-sebebi",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakata-giderken-ne-giymeli",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakata-giderken-yaninizda-bulunmasi-gerekenler",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakata-gitmeden-once-arastirmaniz-gereken-7-sey",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-mulakat-skype-mulakati-ipuclari-ve-taktikleri",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tripadvisorda-ise-alim-nasil-yapilir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yeni-ise-baslayan-personel-duyurusu-nasil-yapilir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/grup-mulakatinda-basarili-olmak-icin-bilmeniz-gerekenler",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ise-alim-danismanlari-icin-ise-alim-tavsiyeleri",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ise-alim-surecinde-belirtec-uc-soru",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ise-alim-surecinde-mulakat-tekniklerinin-etkinligi",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maas-pazarligi-ne-zaman-ve-nasil-yapilmalidir",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-tavsiyeleri",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-teknikleri-ile-is-hayatina-bir-adim-yaklasmak",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-tekniklerinin-dogru-kullanimi-ile-personel-alimi",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-teknikleriyle-ise-alimda-basarili-olun",
+      "destination": "/online-egitim/ise-alim-ve-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletme-yonetimi-egitimi-ile-nitelikli-calisan-olun",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletme-yonetimi-egitimi-neden-gereklidir",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletme-yonetimi-egitimine-hazir-miyim",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletme-yonetimi-egitimine-neden-ihtiyac-duyulmaktadir",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletme-yonetimi-nedir",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletme-yonetiminin-onemi-ve-kapsami",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletmelerin-ekonomideki-onemi-ve-isletme-yonetimi",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isyeri-performansini-her-acidan-degerlendirin",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-firsatlari-ve-kisisel-gelisim-icin-isletme-yonetimi",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ulke-ekonomisinin-gelisimi-icin-isletme-yonetimi-egitimi",
+      "destination": "/online-egitim/isletme-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isletmelerde-karar-verme-teknikleri",
+      "destination": "/online-egitim/isletmelerde-karar-verme-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/javascript-egitimi-nedir",
+      "destination": "/online-egitim/javascript-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/javascript-ile-neler-yapilabilir",
+      "destination": "/online-egitim/javascript-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/javascript-nedir-ne-ise-yarar",
+      "destination": "/online-egitim/javascript-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-hedefinizi-tutturun",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-icin-buyuk-sehirlere-tasinacaklara-tavsiyeler",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-neydi-kariyer-emekti",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-yonetimi",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-yonetimi-nedir",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyeriniz-icin-buyuk-bir-adim-atin",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyerinizi-olusturacak-merkez",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/liderlerden-kariyer-tavsiyeleri",
+      "destination": "/online-egitim/kariyer-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kendimizi-gelistirmek",
+      "destination": "/online-egitim/kendini-gelistirme-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-marka-nasil-yaratilir",
+      "destination": "/online-egitim/kisisel-marka-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-markalasma",
+      "destination": "/online-egitim/kisisel-marka-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-markalasma-hakkinda-bilmeniz-gereken-5-sey",
+      "destination": "/online-egitim/kisisel-marka-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-markalasma-ile-is-bulma-stratejileri-2020",
+      "destination": "/online-egitim/kisisel-marka-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-markalasma-sureci",
+      "destination": "/online-egitim/kisisel-marka-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-markalasma-yolculugu",
+      "destination": "/online-egitim/kisisel-marka-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kitap-editorlugu-nedir",
+      "destination": "/online-egitim/kitap-editorlugu-atolyesi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kitap-editorlugune-giris-atolye-egitimi",
+      "destination": "/online-egitim/kitap-editorlugu-atolyesi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kuantum-yasam-felsefesi-egitimi-nedir",
+      "destination": "/online-egitim/kuantum-yasam-felsefesi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kuantum-yasam-felsefesi-nedir",
+      "destination": "/online-egitim/kuantum-yasam-felsefesi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-yoneticilik-ve-liderlik-icin-7-ipucu",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/liderlerin-soru-sorma-teknikleri-nelerdir",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/liderlerin-zaman-yonetimi-teknikleri",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/liderlik-egitimi-nedir",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/liderlik-egitimi-nedir-2",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/liderlik-nedir-liderlik-egitimi-hakkinda-bilgiler",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/liderlik-ozellikleri-nelerdir",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mukemmel-liderler",
+      "destination": "/online-egitim/liderlik-egitimi-postmodern-liderlik",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finansal-tablolar-analizi-egitimi-bize-ne-kazandirir",
+      "destination": "/online-egitim/mali-tablo-analizi-ve-istihbarat-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/masal-terapisi-egitimi-kimler-alabilir",
+      "destination": "/online-egitim/masal-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/masal-terapisi-ne-ise-yarar",
+      "destination": "/online-egitim/masal-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/masal-terapisi-nedir",
+      "destination": "/online-egitim/masal-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/masal-terapisi-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/masal-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/masal-terapisti-nasil-olunur",
+      "destination": "/online-egitim/masal-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hikaye-anlaticiligi-teknikleri-nelerdir",
+      "destination": "/online-egitim/masal-ve-hikaye-anlaticiligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/medya-okuryazarligi",
+      "destination": "/online-egitim/medya-okuryazarligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/medya-okuryazarligi-ne-demek",
+      "destination": "/online-egitim/medya-okuryazarligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/microsoft-office-programlari-egitimi-nedir-neden-onemlidir",
+      "destination": "/online-egitim/microsoft-office-programlari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-dunyasinin-zehirli-oku-mobbing",
+      "destination": "/online-egitim/mobbing-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mobbing-nedir-mobbinge-ugradigimizda-ne-yapilmali",
+      "destination": "/online-egitim/mobbing-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-yerinde-motivasyon",
+      "destination": "/online-egitim/motivasyon-30-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/musteri-iliskileri-yonetiminin-amaclari",
+      "destination": "/online-egitim/musteri-iliskileri-yonetimi-crm-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/musteri-odakli-satis-teknikleri-egitim-destegi",
+      "destination": "/online-egitim/musteri-odakli-satis-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/musteri-odakli-satis-teknikleri-egitimi-nedir",
+      "destination": "/online-egitim/musteri-odakli-satis-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-sertifika-programi-ile-satislari-yukseltin",
+      "destination": "/online-egitim/musteri-odakli-satis-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-teknikleri-bu-egitimlerle-hemen-ogrenin",
+      "destination": "/online-egitim/musteri-odakli-satis-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-teknikleri-egitimi-neden-gereklidir",
+      "destination": "/online-egitim/musteri-odakli-satis-teknikleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/doner-ustasi",
+      "destination": "/online-egitim/mutfak-yonetimi-hizmetleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-egitimi-ve-faydalari-nelerdir",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-egitimi-ve-ozellikleri",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-faydalari-ve-merak-edilenler",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-nedir-en-iyi-nlp-tavsiyeleri",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-nedir-nlp-egitimi",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-nedir-nlp-egitimiyle-ne-ogrenebilirim",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-teknikleri-hayatinizi-degistirecek-5-teknik",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-teknikleri-ile-hayatiniza-yeni-bir-yon-verin",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlp-teknikleri-ve-nlp-egitimleri",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nlpnin-gucunu-kesfedin",
+      "destination": "/online-egitim/nlp-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nvivo-nedir",
+      "destination": "/online-egitim/nvivo-ile-nitel-veri-analizi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ogrenmeyi-ogrenme-egitimi-nedir",
+      "destination": "/online-egitim/ogrenmeyi-ogrenme-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/onemli-olan-ogrenmeyi-ogrenmek",
+      "destination": "/online-egitim/ogrenmeyi-ogrenme-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/on-muhasebe-egitimi-nedir",
+      "destination": "/online-egitim/on-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/on-muhasebe-ne-is-yapar",
+      "destination": "/online-egitim/on-muhasebe-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oryantasyon-egitimi-nedir",
+      "destination": "/online-egitim/oryantasyon-hazirlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oryantasyon-egitiminin-faydalari",
+      "destination": "/online-egitim/oryantasyon-hazirlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oryantasyon-nedir",
+      "destination": "/online-egitim/oryantasyon-hazirlama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/osmanli-turkcesi-nedir-nasil-ogrenilir",
+      "destination": "/online-egitim/osmanli-turkcesi-osmanlica",
+      "permanent": true
+    },
+    {
+      "source": "/blog/osmanli-turkcesi-osmanlica-egitimi-nedir",
+      "destination": "/online-egitim/osmanli-turkcesi-osmanlica",
+      "permanent": true
+    },
+    {
+      "source": "/blog/osmanlica-ogrenmek-zor-mu",
+      "destination": "/online-egitim/osmanli-turkcesi-osmanlica",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oyun-terapisi-egitimi-nereden-alinmali",
+      "destination": "/online-egitim/oyun-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oyun-terapisi-kimler-alabilir",
+      "destination": "/online-egitim/oyun-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oyun-terapisi-nasil-yapilir",
+      "destination": "/online-egitim/oyun-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oyun-terapisi-ne-ise-yarar",
+      "destination": "/online-egitim/oyun-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oyun-terapisi-nedir",
+      "destination": "/online-egitim/oyun-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oyun-terapisti-nasil-olunur",
+      "destination": "/online-egitim/oyun-terapisi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/performans-degerlendirme-her-zaman-iyi-sonuclar-vermez",
+      "destination": "/online-egitim/performans-degerlendirme-egitimi-360-derece",
+      "permanent": true
+    },
+    {
+      "source": "/blog/performans-yonetimi-kilavuzu",
+      "destination": "/online-egitim/performans-degerlendirme-egitimi-360-derece",
+      "permanent": true
+    },
+    {
+      "source": "/blog/personel-performans-degerlendirme-formu",
+      "destination": "/online-egitim/performans-degerlendirme-egitimi-360-derece",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yeni-baslayanlar-icin-photoshop-kursu",
+      "destination": "/online-egitim/photoshop-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-photoshop-dersleri",
+      "destination": "/online-egitim/photoshop-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/python-dili-neden-onemli",
+      "destination": "/online-egitim/python-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/python-egitimi-nedir",
+      "destination": "/online-egitim/python-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/python-kimler-kullanir",
+      "destination": "/online-egitim/python-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/python-nedir",
+      "destination": "/online-egitim/python-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/python-ogrenmek-ne-kadar-surer",
+      "destination": "/online-egitim/python-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-python-dersleri",
+      "destination": "/online-egitim/python-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/farkli-bir-egitim-kod-yazma",
+      "destination": "/online-egitim/robotik-kodlama",
+      "permanent": true
+    },
+    {
+      "source": "/blog/robotik-kodlama-nedir-nasil-ogrenilir",
+      "destination": "/online-egitim/robotik-kodlama",
+      "permanent": true
+    },
+    {
+      "source": "/blog/robotik-kodlama-nedir-nasil-yapilir",
+      "destination": "/online-egitim/robotik-kodlama",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lider-yoneticinin-egitimi-satis-koclugu",
+      "destination": "/online-egitim/satis-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-koclugu-egitimi-nedir",
+      "destination": "/online-egitim/satis-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-koclugu-nedir",
+      "destination": "/online-egitim/satis-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-uzmanlari-ve-satis-profesyonelleri-bu-mektup-size",
+      "destination": "/online-egitim/satis-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-yonetimi-ve-egitimi",
+      "destination": "/online-egitim/satis-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/scratch-nedir-ne-ise-yarar",
+      "destination": "/online-egitim/scratch-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nasil-seo-uzmani-olunur",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-egitimi-neden-gereklidir",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-egitimi-nedir",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-nedir-nasil-yapilir",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-ozellikleri-ve-seo-egitimi",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-stratejileri-ile-web-sitenizi-ust-siralara-tasiyin",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-teknik-bir-is-mi",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seo-uzmani-maaslari-nedir",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/seoya-baslamadan-once-bilmeniz-gerekenler",
+      "destination": "/online-egitim/seo-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-ileri-seviye-seo-egitimi",
+      "destination": "/online-egitim/seo-uzmanligi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/evde-sifirdan-ingilizce-ogrenin",
+      "destination": "/online-egitim/sifirdan-ingilizce-tum-seviyeler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizcenizi-gelistirecek-5-etkili-mobil-uygulama",
+      "destination": "/online-egitim/sifirdan-ingilizce-tum-seviyeler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sifirdan-ingilizce-ogrenmek-isteyenlere-9-tavsiye",
+      "destination": "/online-egitim/sifirdan-ingilizce-tum-seviyeler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-ogrenmek-isteyenlere-ucretsiz-ingilizce-kursu",
+      "destination": "/online-egitim/sifirdan-ingilizce-tum-seviyeler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/musteri-sikayet-yonetimi-hakkinda-3-kural",
+      "destination": "/online-egitim/sikayet-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nasil-sosyal-medya-uzmani-olunur",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-egitimi-ile-ne-ogrenebilirim",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-uzmani-ile-dijital-pazarlama-iliskisi",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-uzmani-kimdir",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-uzmani-ne-is-yapar-nitelikleri-neler",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-uzmani-nedir",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-uzmani-neler-yapar",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-uzmanligi-kursu-is-olanaklari",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-uzmanligi-nedir",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-ve-filmlere-yansimasi",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-ve-gelecegin-meslegi",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medya-ve-istihdam",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sosyal-medyanin-egitime-olan-etkisi",
+      "destination": "/online-egitim/sosyal-medya-uzmanligi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/turkiyedeki-insan-kaynaklari-yonetimine-bakis",
+      "destination": "/online-egitim/stratejik-insan-kaynaklari-yonetimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stratejik-yonetim-egitimi-faydalari",
+      "destination": "/online-egitim/stratejik-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yonetimin-stratejisine-hakim-olun",
+      "destination": "/online-egitim/stratejik-yonetim-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stres-ile-basa-cikma-yollari",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stres-neden-olur",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stres-nedir-nasil-ortaya-cikar",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stres-nedir-nasil-yonetilir",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stres-ve-korunma-yollari",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stres-ve-stres-yonetimi-nedir",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stres-yonetimi-mumkun-mu",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stresten-korkma-stresi-yonet",
+      "destination": "/online-egitim/stres-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hukuku-egitimi-nasil-olmali",
+      "destination": "/online-egitim/temel-is-kanunu-ve-is-hukuku-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hukuku-nedir",
+      "destination": "/online-egitim/temel-is-kanunu-ve-is-hukuku-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hukuku-ve-isci-haklari",
+      "destination": "/online-egitim/temel-is-kanunu-ve-is-hukuku-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-hukuku-ve-isci-isveren-haklari",
+      "destination": "/online-egitim/temel-is-kanunu-ve-is-hukuku-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isci-sinifi-ve-is-hukuku-egitimi",
+      "destination": "/online-egitim/temel-is-kanunu-ve-is-hukuku-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/isleriniz-kitabina-uygun-olsun",
+      "destination": "/online-egitim/temel-is-kanunu-ve-is-hukuku-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-bolumu-ne-is-yapar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-elemani-nasil-olunur",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-elemani-nedir-nasil-olunur",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-kayit-maaslari",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-kursu-neden-onemlidir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-kursu-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-sekreteri-ne-is-yapar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-sekreterligi-kursu-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-sekreterligi-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kabul-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kayit-kabul-sekreterligi-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hasta-kayit-kabul-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lise-mezunu-tibbi-sekreter-olabilir-mi",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-hasta-kayit-kabul-kursu-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-tibbi-sekreterlik-kursu",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-dokumantasyon-ve-sekreterlik-nedir-ne-is-yapar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreter-is-imkanlari-nelerdir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreter-nasil-olunur",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterin-gorev-tanimi-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterin-gorevleri-ve-is-hacmi",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-egitimi",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-egitimi-ve-kapsami",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-is-imkanlari-nelerdir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-kursu-faydalari",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-kursu-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-ne-is-yapar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-nedir-gorevleri-neler",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikanizi-alin-isinize-baslayin",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikasi",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikasi-ile-atama",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikasi-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikasi-neler-katar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikasi-nerede-kullanilir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-sertifikasiyla-nerelerde-calisabilirim",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tibbi-sekreterlik-uzaktan-egitim-programi",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tip-sekreterligi-nedir",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tip-sekreterligi-sertifikasi-ne-ise-yarar",
+      "destination": "/online-egitim/tibbi-sekreterlik-kursu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kaliteyi-hep-birlikte-olusturun",
+      "destination": "/online-egitim/toplam-kalite-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kalite-yonetimini-kaliteli-icerikle-ogrenin",
+      "destination": "/online-egitim/toplam-kalite-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/toplam-kalite-yonetimi-dersleri",
+      "destination": "/online-egitim/toplam-kalite-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/toplam-kalite-yonetimi-egitimi-yararlari",
+      "destination": "/online-egitim/toplam-kalite-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tukenmislik-sendromu-belirtileri",
+      "destination": "/online-egitim/tukenmislik-sendromu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/tukenmislik-sendromu-icin-cozumler",
+      "destination": "/online-egitim/tukenmislik-sendromu",
+      "permanent": true
+    },
+    {
+      "source": "/blog/video-duzenleme-ve-video-editoru",
+      "destination": "/online-egitim/video-editorlugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/video-editorlugu-egitimi-ile-freelance-is-imkani",
+      "destination": "/online-egitim/video-editorlugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/video-editorlugu-egitimi-premiere-pro",
+      "destination": "/online-egitim/video-editorlugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/video-editorlugu-egitiminin-onemi",
+      "destination": "/online-egitim/video-editorlugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/video-editorlugu-nedir",
+      "destination": "/online-egitim/video-editorlugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/vray-render-kursu-nedir-ne-ise-yarar",
+      "destination": "/online-egitim/vray-render",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wordpress-egitimi-nedir",
+      "destination": "/online-egitim/wordpress-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wordpress-egitimi-ufkunuzu-acin-ve-isinizi-ileri-tasiyin",
+      "destination": "/online-egitim/wordpress-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wordpress-eklentileri-nedir-ne-ise-yarar",
+      "destination": "/online-egitim/wordpress-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wordpress-ile-kendi-siteni-kur",
+      "destination": "/online-egitim/wordpress-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yabancilar-icin-turkce-kursu-nedir",
+      "destination": "/online-egitim/yabancilar-icin-turkce-kursu-a1",
+      "permanent": true
+    },
+    {
+      "source": "/blog/drama-egitmeni",
+      "destination": "/online-egitim/yaratici-drama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/drama-ogretmeni",
+      "destination": "/online-egitim/yaratici-drama-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yazar-olmak-icin-neler-yapilmali",
+      "destination": "/online-egitim/yaratici-yazarlik-atolyesi-ve-editorluge-giris",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yazarlik-atolyesi-ile-ilk-adimi-atin",
+      "destination": "/online-egitim/yaratici-yazarlik-atolyesi-ve-editorluge-giris",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-yaratici-yazarlik-egitimi-ile-yeteneginizi-kesfedin",
+      "destination": "/online-egitim/yaratici-yazarlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yaratici-yazarlik-egitimi-nedir",
+      "destination": "/online-egitim/yaratici-yazarlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yazarlik-ve-yazma-becerileri-nasil-gelistirilir",
+      "destination": "/online-egitim/yaratici-yazarlik-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nasil-yasam-kocu-olunur",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ortak-dil-yaratmak",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/profesyonel-yasam-koclugu-egitimi-nedir",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-yasam-koclugu-ile-onde-olun",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yasam-koclugu-egitimi-nedir",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yasam-koclugu-meslek-midir",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yasam-kocu",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yasam-kocu-nasil-calisir",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yasam-kocu-nedir-nasil-olunur",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yasam-kocu-olmak-icin-ne-okumak-gerekir",
+      "destination": "/online-egitim/yasam-koclugu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yetenek-inovasyonu-egitimi-nedir",
+      "destination": "/online-egitim/yetenek-inovasyonu-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yetkinlik-bazli-mulakat-soru-ornekleri",
+      "destination": "/online-egitim/yetkinlik-bazli-mulakat-teknikleri-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-zaman-yonetimi-icin-7-kural",
+      "destination": "/online-egitim/zaman-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yoneticiler-icin-zaman-yonetimi-teknikleri",
+      "destination": "/online-egitim/zaman-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zaman-yonetimi-egitimi-neden-onemlidir",
+      "destination": "/online-egitim/zaman-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zaman-yonetimi-egitimine-kimler-katilmali",
+      "destination": "/online-egitim/zaman-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zaman-yonetimi-nedir-ve-neden-gereklidir",
+      "destination": "/online-egitim/zaman-yonetimi-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zihin-haritalari-egitimi-nedir",
+      "destination": "/online-egitim/zihin-haritalari-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zihin-haritasi-nedir",
+      "destination": "/online-egitim/zihin-haritalari-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zihin-haritasi-nedir-nasil-yapilir",
+      "destination": "/online-egitim/zihin-haritalari-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/musteri-her-zaman-haklidir-prensibi-dogru-mu",
+      "destination": "/online-egitim/zor-musterilerle-basa-cikma-yontemleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zor-musteriler-dinlenilmek-ister",
+      "destination": "/online-egitim/zor-musterilerle-basa-cikma-yontemleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/zor-musteriler-icin-egitim-gerek",
+      "destination": "/online-egitim/zor-musterilerle-basa-cikma-yontemleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/basariyi-hisset",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bir-online-egitim-furyasidir-gidiyor",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-egitim",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-egitim-hakkinda-bilmediklerimiz",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-egitim-nedir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-sertifika",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-sertifika-nedir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitim-bireysel-bir-yatirim-araci-midir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitim-dort-duvar-arasinda-olmaz",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitim-gotur-bizi-gittigin-yere",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitim-ve-sertifikada-uzaktan-egitim-avantaji",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitime-zamani-dilediginizde-ayirin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/egitimi-dogru-kullanmak",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/en-iyi-egitimi-parasiz-alin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/evinizde-online-egitim-alin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hangi-sertifika-ne-ise-yarar",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hayattan-istediklerinizi-elde-edebiliyor-musunuz",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hem-online-hem-ucretsiz",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/her-yerde-her-zaman-egitim",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ihtiyaciniz-olan-egitimi-secin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iie-kurs-kaydi-nasil-yapilir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/internetteki-bilgiler-dost-mu-dusman-mi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-plani-icin-online-egitimler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-icin-online-egitim",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-icin-sertifika-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kurumsal-egitimler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/okula-donus-basladi-yeni-acilan-online-egitimler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-almak-icin-13-sebep",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-avantaj-ve-dezavantajlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-basarili-mi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-cagimizin-cozumu-olabilir-mi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-daha-mi-konforlu",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-devrimi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-secenekleri-ve-faydalari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-secerken-dikkat-edilmesi-gerekenler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-sertifika-programlari-hangileridir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-seruveni",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-sistemi-faydalari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-sistemi-nedir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-siteleri",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ucretleri",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-5n1k-yontemi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-avantajlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-bilgi-okuryazarligi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-canli-dersler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-cinde-ki-bilgi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-faydalari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-insan-yasamindaki-yeri",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-sertifika",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-sertifika-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-surecleri",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-universite-ornegi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-ve-yasam-boyu-ogrenme",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitim-veren-universiteler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimde-canli-dersin-onemi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimde-canli-dersler-neden-onemli",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimde-eksik-olan-nedir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-6-faydasi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-avantajlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-bilinmeyen-faydalari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-bireylere-sagladigi-baslica-yararlar",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-faydalari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-gelecegi",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-gencler-uzerinde-etkisi-nelerdir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-gucu",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-kazandirdigi-beceriler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimin-yayginlasiyor-mu",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimle-basari-parmaklarinizin-ucunda",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimler-ile-basariyi-yakalayin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimler-ile-hayatini-renklendir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimler-ile-kendini-kesfet",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-egitimler-ve-size-kattiklari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-sertifika",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-sertifika-nasil-alinir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-sertifika-ne-ise-yarar",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-sertifika-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-sertifika-programlari-2020",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-sertifika-programlari-kariyer-hayatinizi-guclendirir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-sertifika-programlari-ve-kazandirdiklari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-ucretsiz-egitimler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-ucretsiz-egitimler-ile-fark-yaratin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-ucretsiz-ingilizce-kursu",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-ucretsiz-sertifika-programlari-2019",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/teknoloji-ve-egitim",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-online-sertifika-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifika-kursu",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifika-nasil-alinir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifika-veren-kurslar",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifika-veren-kurumlar",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifikali-egitimler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifikali-egitimler-nicin-gereklidir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-uzaktan-egitim-ile-tanisin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-uzaktan-egitim-sertifika-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/universite-sertifika-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/universitelerde-egitim-sistemleri",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-dersleri-nelerdir",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-dil-kurslari-2020",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-ile-basariyi-yakinlastirin",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-ile-ucretsiz-sertifika-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-kurslari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-kurslari-2020",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-nedir-online-egitimin-dezavantajlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-sertifika-programlari-ne-kadar-etkili",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-ucretleri",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitimde-ucret-avantaji-2",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitime-nasil-kayit-olunur",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitimin-artilari-ve-eksileri",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-online-egitim-programlari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-online-egitim-ve-faydalari",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-sertifika-almak-isteyenlere-tavsiyeler",
+      "destination": "/online-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim",
+      "destination": "/online-egitimler/",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitim-nasil-yapiliyor",
+      "destination": "/online-egitimler/",
+      "permanent": true
+    },
+    {
+      "source": "/online-egitimler-yorum",
+      "destination": "/online-egitimler/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/evde-diksiyon-gelistirme-teknikleri",
+      "destination": "/online-egitimler/diksiyon-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finans-ve-muhasebe-egitimleri",
+      "destination": "/online-egitimler/finans-muhasebe-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/finansal-yonetim-ve-muhasebe-egitiminde-ne-ogreneceksiniz",
+      "destination": "/online-egitimler/finans-muhasebe-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dugun-fotografciligi-nedir",
+      "destination": "/online-egitimler/fotografcilik-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-kursu-ne-ogretiyor",
+      "destination": "/online-egitimler/hizli-okuma-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hizli-okuma-kursu-nedir",
+      "destination": "/online-egitimler/hizli-okuma-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisim-teknolojileri-ve-toplum-dersleri",
+      "destination": "/online-egitimler/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisim-teknolojileri-ve-toplum-egitimi-yararlari",
+      "destination": "/online-egitimler/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisim-teknolojileriyle-iletisimde-olun",
+      "destination": "/online-egitimler/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisimde-beden-dili-farki",
+      "destination": "/online-egitimler/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisimde-can-alici-noktalar",
+      "destination": "/online-egitimler/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/iletisimde-ne-kadar-etkiliyiz",
+      "destination": "/online-egitimler/iletisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/en-kolay-ingilizce-ogrenme-yontemi",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/en-kolay-ingilizce-ogrenme-yontemleri",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-dil-kurslari-nelerdir",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-egitimi-neden-onemlidir",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kurs-fiyatlari",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kursu-icin-online-egitimi-secin",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kursu-icin-para-harcamayin",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kursu-ile-dunyanin-ortak-dilini-ogrenin",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kursu-ile-hedeflerinize-yaklasin",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kursu-ile-kendinizi-gelistirin",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kursu-secerken-dikkat-etmeniz-gerekenler",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ingilizce-kursundan-alinan-sertifika-ne-ise-yarar",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kolay-ingilizce-ogrenme-yollari",
+      "destination": "/online-egitimler/ingilizce-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-alaninda-uzaktan-egitimler",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-egitimi-neden-cok-tercih-ediliyor",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-egitimi-ve-uzaktan-egitimin-onemi",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-egitimiyle-nerelerde-calisabilirim",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-egitimleri-ile-uzmanlasin",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-ilgili-bilinmesi-gerekenler",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/insan-kaynaklari-yonetimi-gelisen-isletmelerin-ihtiyacidir",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-hatalarindan-nasil-donebiliriz",
+      "destination": "/online-egitimler/kariyer-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kariyer-hayatinizda-basari-icin-10-tavsiye",
+      "destination": "/online-egitimler/kariyer-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/en-iyi-kisisel-gelisim-kurslari-2021",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/etkili-kisisel-gelisim-egitimleri",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hayat-boyu-egitim-kisisel-gelisim",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hepimiz-aslinda-kendimizin-pilotu-degil-miyiz",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/her-yonetici-ve-patronun-almasi-gereken-egitim",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-egitimleri-ile-fark-yaratin",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-egitimleri-nelerdir",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-egitimleri-ve-faydalari",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-egitimlerinin-faydalari",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-egitimlerinin-onemi",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-haritasi",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-icin-yapabileceklerin",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-kaynaklari-nasil-incelenmelidir",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-kurslarinin-kariyere-etkisi",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-kursu-nedir",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-modernizmin-zehirli-balidir",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-motivasyonu-online-egitim",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-nedir-nasil-gerceklestirilir",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-nedir-ne-degildir",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-programlari",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-ve-online-egitim",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisim-yolunda-online-egitim",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisimde-en-iyi-davranis",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisimde-iletisimin-onemi",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisimde-online-egitimin-etkisi",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kisisel-gelisimde-yapmaniz-ve-yapmamaniz-gerekenler",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/kumandasiyla-kendine-komut-verebilen-tek-robot-insan",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yeni-mezunlar-icin-uzaktan-egitim-kurs-programlari",
+      "destination": "/online-egitimler/kisisel-gelisim-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-korece-ogrenmeliyiz",
+      "destination": "/online-egitimler/korece-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/mulakat-teknikleri-nedir-mulakat-ornekleri-nelerdir",
+      "destination": "/online-egitimler/mulakat-teknikleri-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-rusca-ogrenmeliyiz",
+      "destination": "/online-egitimler/rusca-kurslari",
+      "permanent": true
+    },
+    {
+      "source": "/blog/pazarlama-egitimi-hangi-yetenekleri-kazandirir",
+      "destination": "/online-egitimler/satis-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-uzmanlari-icin-ucretsiz-egitimler",
+      "destination": "/online-egitimler/satis-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-satis-ve-pazarlama",
+      "destination": "/online-egitimler/satis-ve-pazarlama-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/satis-ve-pazarlama-uzmani",
+      "destination": "/online-egitimler/satis-ve-pazarlama-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/urun-fiyati-nasil-aciklanir",
+      "destination": "/online-egitimler/satis-ve-pazarlama-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-satis-ve-pazarlama-programlari",
+      "destination": "/online-egitimler/satis-ve-pazarlama-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-egitim-programlari",
+      "destination": "/online-egitimler/ucretsiz-egitimler",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-yabanci-dil-kursu",
+      "destination": "/online-egitimler/yabanci-dil-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-sertifika-programlari",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-sertifika-programlari-nedir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/e-sertifikanin-hayatimiza-katkisi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/hangi-alanlarda-sertifika-alinir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/is-basvurusu-yaparken-hangi-sertifikalar-ise-yarar",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-sertifika-aliriz",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-sertifika-almaliyiz",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neden-sertifika-sahibi-olmaliyiz",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-almak-onemli-mi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-almanin-avantajlari",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-egitimi-zorunlulugu",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-egitimleri",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-hakkinda-her-sey",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-ile-ise-girilir-mi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-ile-kazanilan-ayricaliklar-nelerdir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-kodu-yada-basari-belgesi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-kurslari-ve-mulakat",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-ne-ise-yarar",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-ne-ise-yarayacak",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-neden-onemli",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-neden-onemlidir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-nedir-neden-onemli",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-neler-katar",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-niteligi-neden-onemlidir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlari-avantajli-mi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlari-hakkinda-her-sey",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlari-kariyerini-sekillendirir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlari-ucretsiz-alinabilir-mi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlari-ve-insan",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlari-ve-is-bulma",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlari-ve-meslek-secimi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlarina-neden-katilmaliyiz",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlarinin-faydasi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlarinin-is-dunyasina-katkilari",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-programlarinin-is-hayatinda-faydalari-nelerdir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-sinavinda-nasil-basarili-olabilirim",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-sorgulamasi-nasil-yapilir-neden-onemlidir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-tipi-nedir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifika-ve-e-sertifika-ne-kadar-gereklidir",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sertifikayla-ise-girilir-mi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ucretsiz-sertifikanin-is-hayatina-etkisi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/uzaktan-egitim-sertifikasi",
+      "destination": "/sertifika",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ik-uzmanlari-icin-ucretsiz-egitimler",
+      "destination": "/online-egitimler/insan-kaynaklari-egitimleri/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yabanci-dil-ogrenmenin-faydasi-nedir",
+      "destination": "/online-egitimler/yabanci-dil-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yabanci-dil-ogrenmenin-puf-noktalari",
+      "destination": "/online-egitimler/yabanci-dil-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/yabanci-dil-ogrenmenin-ucretsiz-yollari",
+      "destination": "/online-egitimler/yabanci-dil-egitimleri",
+      "permanent": true
+    },
+    {
+      "source": "/blog/barista",
+      "destination": "/online-egitim/barista-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/barista-egitimi-nedir",
+      "destination": "/online-egitim/barista-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/barista-kimdir-ne-is-yapar",
+      "destination": "/online-egitim/barista-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/marvelous-designer-nedir",
+      "destination": "/marvelous-designer-nedir-nerelerde-kullanilir",
+      "permanent": true
+    },
+    {
+      "source": "/blog/marvelous-designer-nerelerde-kullanilir",
+      "destination": "/marvelous-designer-nedir-nerelerde-kullanilir",
+      "permanent": true
+    },
+    {
+      "source": "/blog/anlayarak-hizli-okuma",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/anlayarak-hizli-okuma-teknikleri-ve-onemi",
+      "destination": "/online-egitim/anlayarak-hizli-okuma-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bordro-egitimi-sertifika-programi-faydalari-nelerdir",
+      "destination": "/online-egitim/bordro-ve-bordro-uygulamalari-egitimi",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sifirdan-korece-ogrenmek-kolay-mi",
+      "destination": "online-egitim/sifirdan-korece/",
+      "permanent": true
+    }
+  ]
+}
